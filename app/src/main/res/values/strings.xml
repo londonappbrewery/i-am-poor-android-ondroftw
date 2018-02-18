@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">I Am Poor</string>
     <string name="heading">I Am Poor</string>
+    <string name="title">I am filthy rich</string>
+    <string name="bentleyDesc">Bentley car</string>
 </resources>
